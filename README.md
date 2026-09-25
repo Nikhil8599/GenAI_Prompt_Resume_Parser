@@ -16,6 +16,7 @@ Turn unstructured resumes into structured, meaningful candidate information with
 <br>
 
 🌐 🚀 Open GenAI Resume Parser — Live Demo
+https://ai-resume-parser-5f4cncx7tnxvqoftrwmo5m.streamlit.app/
 
 </div>
 
